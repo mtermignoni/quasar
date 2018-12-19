@@ -1,0 +1,16 @@
+{
+ "name": "blog",
+ "version": "1.0.0",
+ "description": "personalblog",
+ "author": "Awesome Author",
+ "private": true,
+ "scripts": {
+  "postinstall": "npm install express"
+ },
+ "dependencies": {
+  "fastclick": "^1.0.6",
+  "moment": "^2.18.1",
+  "quasar-framework": "^0.13.10",
+  "vue": "^2.4.2"
+ }
+}

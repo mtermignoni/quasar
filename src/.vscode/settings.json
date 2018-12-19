@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "Monokai",
+    "editor.detectIndentation": false,
+    "editor.tabSize": 2,
+    "window.zoomLevel": 0,
+    "[javascript]": {
+        "editor.tabSize": 2,
+        "editor.detectIndentation": false
+    }
+}
